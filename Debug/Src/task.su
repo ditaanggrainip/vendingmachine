@@ -1,0 +1,6 @@
+task.c:64:15:Button500	16	static
+task.c:80:15:Button1000	16	static
+task.c:96:15:Buttonproses	16	static
+task.c:112:15:Buttoncancel	16	static
+task.c:128:6:task_init	4	static
+task.c:132:6:task_run	8	static

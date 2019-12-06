@@ -1,0 +1,5 @@
+hardwareinit.c:6:6:SystemClock_Config	72	static
+hardwareinit.c:44:6:MX_TIM4_Init	32	static
+hardwareinit.c:89:6:MX_USART1_UART_Init	8	static
+hardwareinit.c:122:6:MX_GPIO_Init	40	static
+hardwareinit.c:160:6:Error_Handler	4	static
